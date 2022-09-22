@@ -10,7 +10,7 @@
         <version>2.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>b0x0-framework-sample</artifactId>
+    <artifactId>sample-b0x0-framework-spring</artifactId>
     <name>B0x0 Framework Sample</name>
     <packaging>jar</packaging>
 
